@@ -68,6 +68,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-igor--miranda1-181717?style=for-the-badge&logo=github)](https://github.com/igor-miranda1)
+[![Instagram](https://img.shields.io/badge/Instagram-igor__miranda15-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/igor_miranda15)
 
 </div>
 

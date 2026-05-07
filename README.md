@@ -9,7 +9,7 @@
 ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
 ```
 
-### Olá! Eu sou o Igor Miranda 👋
+### Olá! Eu me chamo Igor Miranda 👋
 **Desenvolvedor em formação · Apaixonado por tecnologia**
 
 </div>

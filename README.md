@@ -35,11 +35,11 @@
 
 | Tecnologia | Nível |
 |---|---|
-| HTML | ⭐⭐⭐⭐ |
-| CSS | ⭐⭐⭐⭐ |
-| JavaScript | ⭐⭐⭐ |
+| HTML | ⭐⭐ |
+| CSS | ⭐⭐ |
+| JavaScript | ⭐⭐ |
 | C# | ⭐⭐⭐ |
-| MySQL / Workbench | ⭐⭐ |
+| MySQL / Workbench | ⭐ |
 
 ---
 

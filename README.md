@@ -37,9 +37,10 @@
 |---|---|
 | HTML | ⭐⭐ |
 | CSS | ⭐⭐ |
-| JavaScript | ⭐⭐ |
-| C# | ⭐⭐⭐ |
-| MySQL / Workbench | ⭐ |
+| JavaScript | ⭐⭐⭐ |
+| NodeJs | ⭐⭐|
+| C# | ⭐⭐ |
+| MySQL / Workbench | ⭐ ⭐ |
 
 ---
 
